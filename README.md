@@ -35,7 +35,7 @@ An end-to-end data mining and personalized recommendation system built on the [U
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/tinyelfie/E-Commerce-Customer-Behaviour-Mining-and-Personalized-Product-Recommendation.git
+git clone https://github.com/ap-ctrl/Exploratory-Data-Analysis-Customer-Behavioral-Patterns
 cd E-Commerce-Customer-Behaviour-Mining-and-Personalized-Product-Recommendation
 
 python -m venv venv
